@@ -1,2 +1,2 @@
 # NLP-implementations
-Basic NLP impementations from the course Advanced NLP with Python from Linkedin learning. 
+Basic NLP impementations from the course Advanced NLP with Python from Linkedin learning given by Derek Jedamski.
